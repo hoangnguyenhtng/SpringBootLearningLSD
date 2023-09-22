@@ -1,0 +1,9 @@
+127.0.0.1 - - [05/Jul/2023:16:20:53 +0700] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [05/Jul/2023:16:20:55 +0700] "POST /demoWebService/services/AdminService HTTP/1.0" 200 291
+127.0.0.1 - - [05/Jul/2023:16:20:55 +0700] "POST /demoWebService/services/AdminService HTTP/1.0" 200 5159
+127.0.0.1 - - [05/Jul/2023:16:21:15 +0700] "POST /demoWebService/services/BasicService HTTP/1.1" 200 367
+127.0.0.1 - - [05/Jul/2023:16:24:21 +0700] "POST /demoWebService/services/BasicService HTTP/1.1" 500 515
+127.0.0.1 - - [05/Jul/2023:16:24:39 +0700] "POST /demoWebService/services/BasicService HTTP/1.1" 200 433
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:16:27:54 +0700] "GET /demoWebService/services/BasicService HTTP/1.1" 200 136
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:16:28:06 +0700] "GET /demoWebService/services/BasicService HTTP/1.1" 200 136
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:16:28:27 +0700] "GET /demoWebService/services/BasicService?type=String HTTP/1.1" 200 136

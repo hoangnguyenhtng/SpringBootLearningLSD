@@ -1,0 +1,23 @@
+1682992559789	Rename package 'nongsan.webmvc.controller'
+1682992579424	Rename package 'nongsan.webmvc.controller.admin'
+1682992597974	Rename package 'nongsan.webmvc.dao'
+1682992682784	Rename package 'nongsan.webmvc.dao.impl'
+1682992691293	Rename package 'nongsan.webmvc.filter'
+1682992722948	Rename package 'bpweb.webmvc.dao'
+1682992745223	Rename package 'nongsan.webmvc.jdbc'
+1682992754146	Rename package 'nongsan.webmvc.model'
+1682992761969	Rename package 'nongsan.webmvc.service'
+1682992770543	Rename package 'nongsan.webmvc.service.impl'
+1682992778964	Rename package 'nongsan.webmvc.tools'
+1682992786205	Rename package 'nongsan.webmvc.util'
+1682992828447	Rename resource 'nongsan'
+1682992839446	Rename resource 'nongsan'
+1682994057362	Delete element
+1682994140303	Delete element
+1683053482676	Delete element
+1683053526601	Delete element
+1683100075207	Delete element
+1683100077538	Delete element
+1683100079649	Delete element
+1683100084480	Delete element
+1683336457521	Rename resource 'blog_1.jpg'

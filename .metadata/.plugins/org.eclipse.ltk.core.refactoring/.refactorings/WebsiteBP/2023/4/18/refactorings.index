@@ -1,0 +1,15 @@
+1682864100402	Delete element
+1682864102592	Delete element
+1682864111152	Move 'admin' to 'view'
+1682864115452	Move 'client' to 'view'
+1682864517960	Rename package 'nongsan.webmvc.controller'
+1682864549488	Rename package 'nongsan.webmvc.controller.admin'
+1682864558991	Rename package 'nongsan.webmvc.dao'
+1682864569785	Rename package 'nongsan.webmvc.dao.impl'
+1682864604608	Rename package 'nongsan.webmvc.filter'
+1682864635924	Rename package 'nongsan.webmvc.jdbc'
+1682864656710	Rename package 'nongsan.webmvc.model'
+1682864663453	Rename package 'nongsan.webmvc.service'
+1682864677897	Rename package 'nongsan.webmvc.service.impl'
+1682864687471	Rename package 'nongsan.webmvc.tools'
+1682864694717	Rename package 'nongsan.webmvc.util'
